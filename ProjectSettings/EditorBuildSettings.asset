@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Office Building.unity
+    guid: 57cb523c196754d438c07da675cae078
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 943cea511c70654479d63538cda5056a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 56628d971b35fe6409a67bed0ddec3ed, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 29e35b07c3d0a814187198c0fa897d69, type: 2}
