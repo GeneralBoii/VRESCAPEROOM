@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: K00282081
   productName: Escape room two
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -137,7 +137,10 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 943cea511c70654479d63538cda5056a, type: 2}
+  - {fileID: 7758354141548201581, guid: 56628d971b35fe6409a67bed0ddec3ed, type: 2}
+  - {fileID: 5029020889989004915, guid: 29e35b07c3d0a814187198c0fa897d69, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
